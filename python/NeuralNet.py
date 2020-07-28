@@ -697,7 +697,7 @@ def minimax(input, maximizing, player):
 
 
 def run():
-    client.run('NjcxNTYxNjUxMDI3MzEyNjQz.Xxn6Sw.xl36Ggw9j_9TYS_oubhxaysbFX8')
+    client.run('TOKEN')
 
 
 run()
